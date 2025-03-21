@@ -47,3 +47,14 @@ Implementamos um modelo de Rede Neural Recorrente (RNN) usando PyTorch para prev
 O modelo alcançou uma perda de teste (MSE) de 0.0178 após o treinamento. A perda de treinamento mostra uma diminuição constante ao longo das épocas, indicando aprendizado bem-sucedido.
 
 Comparações visuais entre valores reais e previstos foram criadas para cada método de pagamento, mostrando a capacidade do modelo de capturar tendências tanto nas quantidades quanto nos valores das transações. As previsões para 6 meses além dos dados disponíveis demonstram a capacidade do modelo de prever o uso futuro de métodos de pagamento.
+
+### Gráficos 
+
+![](charts/1.png)
+![](charts/2.png)
+![](charts/3.png)
+![](charts/4.png)
+![](charts/5.png)
+![](charts/6.png)
+![](charts/7.png)
+![](charts/8.png)
