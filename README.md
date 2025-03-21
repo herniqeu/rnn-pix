@@ -1,7 +1,7 @@
 # Predição de Métodos de Pagamento Brasileiros
 
 ## Dataset
-O dataset utilizado neste projeto é "Métodos de Pagamento Brasileiros" do Kaggle, que contém dados de séries temporais sobre diferentes métodos de transação no Brasil ao longo do tempo. O dataset acompanha tanto a quantidade quanto o valor monetário de vários métodos de pagamento mensalmente de 2015 a 2025.
+O dataset utilizado neste projeto é <a href="https://www.kaggle.com/datasets/clovisdalmolinvieira/brazilian-payment-methods?resource=download">"Métodos de Pagamento Brasileiros"</a> do Kaggle, que contém dados de séries temporais sobre diferentes métodos de transação no Brasil ao longo do tempo. O dataset acompanha tanto a quantidade quanto o valor monetário de vários métodos de pagamento mensalmente de 2015 a 2025.
 
 ## Descrição do Dataset
 O dataset contém as seguintes colunas:
